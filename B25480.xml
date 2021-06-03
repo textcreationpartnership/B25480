@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the King and Queens Most Excellent Majesties, the Lords spiritual and temporal, and to the Knights, citizens, and burgesses assembled in Parliament an humble proposal shewing how this nation may be vast gainers by all sums of mony given to the Crown without lessening the prerogative..</title>
+            <author>Killigrew, William, Sir, 1606-1695.</author>
+         </titleStmt>
+         <extent>Approx. 18KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25480</idno><idno type="EEBO-CITATION">9369885</idno>
+  <idno type="VID">173701</idno>
+  <idno type="EEBO-PROQUEST">2264214165</idno>
+  
+            <idno type="STC">Wing K471</idno>
+            <idno type="OCLC">09369885</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25480)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173701)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1311:8, 1741:40)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the King and Queens Most Excellent Majesties, the Lords spiritual and temporal, and to the Knights, citizens, and burgesses assembled in Parliament an humble proposal shewing how this nation may be vast gainers by all sums of mony given to the Crown without lessening the prerogative..</title>
+                  <author>Killigrew, William, Sir, 1606-1695.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1690?].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: William Killigrew.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>This item is found at reel 1311:8 as Wing K459 (number cancelled in Wing 2nd ed.), and at reel 1741:40 as Wing (2nd ed.) K471.</note>
+                  <note>Reproductions of originals in the Cambridge University Library (reel 1311:8), and henry E. Huntington Library and Art Gallery (reel 1741:40).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Finance, Public --  Great Britain --  To 1688 --  Early works to 1800.</term>
+               <term type="topical_term">Revenue --  Great Britain --  Early works to 1800.</term>
+               <term type="topical_term">Taxation --  Great Britain --  Early works to 1800.</term>
+               <term type="topical_term">Government securities --  Law and legislation --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proposal">
+            <pb n="1" facs="tcp:173701:1"/>
+            <head>To the King and Queens Most Excellent Majesties; the Lords Spiritual and Temporal; and to the Knights, Citizens, and Burgesses assembled in Parliament.</head>
+            <head>An humble Proposal shewing how this Nation may be vast Gainers by all Sums of Mony given to the Crown, without lessening the Prerogative.</head>
+            <div type="introduction">
+               <p>I Put this Design in writing at the request of several con<g ref="char:EOLhyphen"/>siderable Members of both Houses of Parliament, in the Reign of King <hi>Charles</hi> II. when a War was voted a<g ref="char:EOLhyphen"/>gainst <hi>France;</hi> but a Peace being concluded, no Mo<g ref="char:EOLhyphen"/>ny was given; and since that I have had no opportunity to do my Country the Service I designed by this Proposal.</p>
+               <p>But the general Approbation this Paper had from all that saw it, in three several Parliaments, and very many con<g ref="char:EOLhyphen"/>siderable Members having declared that they could not couch any one rational Objection against what I here humb<g ref="char:EOLhyphen"/>ly offer; I have thought fit in this iuncture of time to revive this Design, and most humbly refer it to the Wisdom of the King and Queen, and both Houses of Parliament.</p>
+               <p>As I have not the nomination of the Sums now to be gi<g ref="char:EOLhyphen"/>ven to the Crown, so I shall only suppose a Sum of two Millions, but the Case will hold on all Occasions of the same nature.</p>
+               <p>I humbly beg pardon if I am plain and short, I pretend not to Eloquence; I shall first set down what I would have done, and then shew what Advantage this Nation will reap by so doing; lastly, I will answer all Objections that have hitherto been made, and shall be ready to answer any Objection that may hereafter be made.</p>
+            </div>
+            <div type="list_of_proposals">
+               <head>PROPOSALS.</head>
+               <p n="1">I. THat a Tax be set that will raise 300000 Pounds <hi>per Ann.</hi> this Tax to continue till 2000000 <hi>l.</hi> is paid with the Interest and Charges.</p>
+               <pb n="2" facs="tcp:173701:2"/>
+               <p n="2">II. Let there be an Office erected in the City of <hi>London</hi> near the <hi>Royal Exchange,</hi> let the Tax of 300000 <hi>l.</hi> be paid into the said Office, which must be composed thus,
+<table>
+                     <row>
+                        <cell> </cell>
+                        <cell role="label">
+                           <hi>l. per ann.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>7 <hi>Commissioners,</hi> of which one or more to be <hi>Treasurers</hi>
+                        </cell>
+                        <cell>7000</cell>
+                     </row>
+                     <row>
+                        <cell>1 <hi>Secretary,</hi>
+                        </cell>
+                        <cell>500</cell>
+                     </row>
+                     <row>
+                        <cell>10 <hi>Clerks,</hi>
+                        </cell>
+                        <cell>1200</cell>
+                     </row>
+                     <row>
+                        <cell>2 <hi>Door-Keepers,</hi>
+                        </cell>
+                        <cell>200</cell>
+                     </row>
+                     <row>
+                        <cell>6 <hi>Messengers,</hi>
+                        </cell>
+                        <cell>300</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>House-Rent, Fire, Candle, Paper,</hi> &amp;c.</cell>
+                        <cell>800</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell role="total">10000</cell>
+                     </row>
+                  </table>
+               </p>
+               <p n="3">III. The Tax and Office being fram'd, it must by Act of Parliament be order'd that the Office shall be govern'd thus.</p>
+               <p n="4">IV. The Office must be open, and the Commissioners must sit from Eight of the Clock till Twelve every Morning (except <hi>Sundays</hi> and Holy-Days) and from Two till Four in the Afternoon.</p>
+               <p n="5">V. The Office must accommodate all Persons without Fees or Delays.</p>
+               <p n="6">VI. The Office must pay every Creditor in as many Bonds as the Creditor pleases, and at the Creditor's Choice to have his Name in the Bonds, or Blank; saying, Payable to <hi>A. B.</hi> or to the Bearer; this last is best, because of transferring them.</p>
+               <p n="7">VII. No Bonds to be above a Hundred Pounds, nor none under Five; for the lesser the Bonds are, the better they will pass in Trade.</p>
+               <p n="8">VIII. The Act of Parliament must also make it Treason for the Office to issue out more in Bond than is ordered by the said Act; else like too much Allay in Coin, the Bonds would be imbased: These Bonds must also be Signed by Three Commissioners at the least, besides the Secretary.</p>
+               <p n="9">IX. At the expiration of every Six Months, the Office must pay the Interest of every Bond standing out, and ac<g ref="char:EOLhyphen"/>cording to their Date, and mark those Bonds they design to
+<pb n="3" facs="tcp:173701:3"/> pay off at the expiration of the next Six Months, by writ<g ref="char:EOLhyphen"/>ing on these Bonds thus, <hi>This Bond shall be paid off Prin<g ref="char:EOLhyphen"/>cipal and Interest this day Six Months:</hi> This must also be registred in the <hi>Folio</hi> of those Bonds in the Office-Books.</p>
+               <p n="10">X. The Commissioners must issue out these Bonds or War<g ref="char:EOLhyphen"/>rants from the Treasury, by which means the Crown not the Treasury are not lessened, but remain still the Fountain-Head.</p>
+               <p n="11">XI. These Warrants must be brought by some Person or Persons authorized for that purpose, to avoid false War<g ref="char:EOLhyphen"/>rants. The Treasury must also send a Letter of Advice, be<g ref="char:EOLhyphen"/>fore such Warrants may be accepted.</p>
+               <p n="12">XII. If any Bonds are lost, stoln, or burned, the Parties concerned must give notice thereof to the Office, to the end that the Office may stop them that bring the Bonds, and give notice thereof to the Owners: But if the Bonds are so lost or burnt that they come not to the Office, then it must be made publick in the Gazette several times; and if the Bonds appear not in Six Months, the Office must give the Owners new Bonds, on good Security that they are the Parties whose Names were last registred in the Office-Books for the lost or burned Bonds.</p>
+               <p n="13">XIII. The same Act that settles the Office and the Tax, must declare that the Crown has Credit at the Office for Two Millions payable thus; The Parties concerned to receive the Mony, shall on Warrants from the Treasury receive the Office Bonds, and 6 <hi>l. per cent. per ann.</hi> Interest. That the In<g ref="char:EOLhyphen"/>terest shall be paid every six Months, and six Months warn<g ref="char:EOLhyphen"/>ing given before the Principal shall be paid off; this because People shall have time to find out other ways to dispose of their Mony to new Advantages.</p>
+               <p n="14">XIV. The Act further declaring, that the Office-Bonds shall not only be transferrable, but currant, as Mony in all Payments whatsoever, even into the Exchequer: And it must be made Treason for any of the publick Receivers, to refuse the Office-Bonds when tendered in the Payments. The Counterfeiting of these Bonds must also be made Capital,
+<pb n="4" facs="tcp:173701:4"/> altho I know 'tis impossible to Counterfeit the Bonds, which must be made on a marbled or flourish'd Paper fairly tallied and registred in the Office-Books, where the Counterparts must be kept.</p>
+               <p n="15">XV. It must also be made Capital for the Office to make any use or private advantage of the publick Cash; and they must order it so, as to have a good Cash, because many times the Tax may not be paid in time enough, it may be a Month or two later than the Interest is due.</p>
+               <p n="16">XVI. These Bonds being thus made currant, and grounded on a Law and the Security of the whole Nation, they will not only be of an intrinsick Value equal with Gold and Silver, but superior to either, and of the same consequence, as if so much Mony were imported and given this Nation to trade with.</p>
+               <p n="17">XVII. I say these Bonds will be superior to Gold or Silver, because these Bonds cannot be counterfeited, lost, stoln, or burnt without recovery; they will be a new <hi>Species</hi> of Mony that will grow in our Coffers, every day increasing, which Gold nor Silver does not, but is liable to many Inconvenien<g ref="char:EOLhyphen"/>cies, as Thieves, false and clipt Mony, counterfeiting, loss of time in counting, and chargeable to carry in large Sums.</p>
+               <p n="18">XVIII. These Bonds will soon become our best Payments and Coin, for every one will covet them, nor will any scru<g ref="char:EOLhyphen"/>ple to fetch their Payments at the Office, more than now they do to fetch their Mony at the Exchequer or <hi>Lombard<g ref="char:EOLhyphen"/>istreet;</hi> and the Bonds must be transfer'd at the Office, be<g ref="char:EOLhyphen"/>cause the Counterparts are kept there, the Office becomes Witness to the Payments, and avoids Disputes at Law.</p>
+               <p n="19">XIX. All Mankind must confess, that Credit grounded on a good and solid Security, if it can be made currant, is not only as good, but better than Mony it self; for Mony does no Man good, until he has disposed of it for good Security; and I desire to know what Security can be offered so great and of so intrinsick a Value as these Bonds.</p>
+               <pb n="5" facs="tcp:173701:4"/>
+               <p n="20">XX. The first Years Account stated.
+<table>
+                     <row>
+                        <cell> </cell>
+                        <cell role="label">
+                           <hi>l.</hi>
+                        </cell>
+                        <cell role="label">
+                           <hi>l.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>In Bonds the Debt is</cell>
+                        <cell> </cell>
+                        <cell>2000000</cell>
+                     </row>
+                     <row>
+                        <cell>For Interest at <gap reason="illegible" resp="#oxf" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> l. <hi>per Cent.</hi>
+                        </cell>
+                        <cell>120000</cell>
+                        <cell rows="2">130000</cell>
+                     </row>
+                     <row>
+                        <cell>For the Office Charges</cell>
+                        <cell>10000</cell>
+                     </row>
+                     <row>
+                        <cell>The Tax comes to</cell>
+                        <cell>300000</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>The Charges</cell>
+                        <cell>130000</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>There will rest in Cash</cell>
+                        <cell>170000</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Thus then at Twelve Months end the Interest and Charges of the Office will be paid, and there will be 170000 <hi>l.</hi> in Cash, out of which may be paid 150000 <hi>l.</hi> of the Bonds, and keep 20000 <hi>l.</hi> in Cash, and for the future Pay of Part of the Debt, proportionable every Six Months, keeping still a Cash of 20000 or 30000 <hi>l.</hi> more or less, as shall be thought fit.</p>
+               <p>Thus the Debt of 2000000 <hi>l.</hi> at the Years end is diminish<g ref="char:EOLhyphen"/>ed to 1850000 <hi>l.</hi> and will dwindle away in a few Years, by a rebate of Interest upon Interest, and by a small Tax the Na<g ref="char:EOLhyphen"/>tion will not feel.</p>
+               <p n="21">XXI. Now in case greater Sums must be given, or a War car<g ref="char:EOLhyphen"/>ried on, which may require large Sums, and yearly, so long as a War lasts, then the Taxes must be made proportionable.</p>
+               <p>But still there will be no necessity ever to set any Tax above what will pay double or treble the Interest of the Mo<g ref="char:EOLhyphen"/>ny given to the Crown. And now let us see the Advantages that will arise from this Method of giving Mony.</p>
+            </div>
+            <div type="list_of_benefits">
+               <head>Benefits arising to the Crown and to the Nation by this way of giving Mony.</head>
+               <p n="1">I. BY this means the Crown receives the entire Sums of Mo<g ref="char:EOLhyphen"/>ny given by the Parliaments, and the Crown has the Mony immediately, without staying till the Taxes come in, or being obliged to take up Mony, or buy Stores at hard rates, and paying by uncertain Assignments; so that part by the raising and collecting the Taxes, part by taking up Mony and buying Goods on credit; This will save very near one third part of what is given by the Nation, besides the great Disappointments our Kings have met with by delays, and
+<pb n="6" facs="tcp:173701:5"/> the Nation also, who expect from the Crown the same thing as if the Crown had the whole Sums given, and in due time.</p>
+               <p n="2">II. The Crown will buy all Stores at least 20 <hi>per Cent.</hi> cheaper than usually; for Men will prefer these Bonds before any Assignments or Mony it self, because these Bonds will in<g ref="char:EOLhyphen"/>crease in their Coffers, and are not lyable to a Postpone: For the Crown may as easily call back the Mony paid out of the Ex<g ref="char:EOLhyphen"/>chequer, as stop what is given out for Mony, and made cur<g ref="char:EOLhyphen"/>rant by a Law; besides these Bonds will be in the hands and possession of the People.</p>
+               <p n="3">III. This currant Credit will do the duty of Gold and Sil<g ref="char:EOLhyphen"/>ver, and is the same thing in all respects as so much Mony imported and distributed, and added to the general Stock of the Nation, which will increase our Trade proportionably, as the Crown will soon find by the increase of the Revenue; for we have not Seven Millions in Mony to support our Trade and Consumption, and by adding Two or more Millions of this currant Credit, we add proportionably to our Trade and Consumption.</p>
+               <p n="4">IV. These Bonds will produce a double Gain to the Na<g ref="char:EOLhyphen"/>tion; first by drawing out the Mony which lies dead for want of Security; secondly, Men will trade with these Bonds, or draw the Interest, which makes the Bonds daily of more value, altho they lie dead in their Coffers.</p>
+               <p n="5">V. Our poorer sort of People may improve their small Ta<g ref="char:EOLhyphen"/>lents without the Expences of Scriveners, Brokers, and the like, who daily make a Prey of them, and often let their Mony lie dead, and take not always good Security: But by this Method Men may put their Mony to a secure Interest, and without Charges, and have their Mony still in their own keeping, ready to make a new Advantage by it, which they cannot do by our usual ways, nor be secured that they shall have their Mony or Interest when it is due.</p>
+               <p n="6">VI. This undeniable Security will bring Bullion from a<g ref="char:EOLhyphen"/>broad, as <hi>Holland</hi> and other places, where they draw but 4 <hi>per Cent.</hi> and it will disperse our own Mony, which now
+<pb n="7" facs="tcp:173701:6"/> lies dead for want of Security, and make it more free and common amongst us.</p>
+               <p n="7">VII. Our Retailers, through whose Hands passeth the greatest part of our currant Cash will change or buy these Bonds, as soon as they have but 5 or 10 <hi>l</hi> in their Shops; for they let such Sums lie by them, till they have a Stock either to pay a Debt or go to Market, which they may as well do with these Bonds, by which they will gain more in the Inter<g ref="char:EOLhyphen"/>est than their share of the Tax will come to.</p>
+               <p n="8">VIII. These Bonds (like Mony) will pass through five or six Hundred hands in a Year, every Trade gaining 10 <hi>l. per Cent.</hi> as they must needs do, or they cannot subsist, because most Traders pay 6 <hi>l. per Cent.</hi> for the Mony they trade with. Now I will suppose these Bonds, the one with the other, pass through forty hands only in a Year, every Trader gaining but 5 <hi>l. per Cent.</hi> then every 100 <hi>l.</hi> in these Bonds produce 200 <hi>l. per Ann.</hi> Gains to the Nation, as long as they are standing out. If so, then the Nation may well dispense with the Charges of the Office and Interest, since for 2000000 <hi>l.</hi> given, the Nation will gain 400000 <hi>l.</hi> the first Year, little less the second and third Years. Consider then the Advantage accrues to the Nation on the whole, and before all the Bonds are paid off.</p>
+               <p n="9">IX. I could say much more on every Paragraph in this Pa<g ref="char:EOLhyphen"/>per, but am loth to be too tedious; besides this Business re<g ref="char:EOLhyphen"/>quires to be discoursed, and it does not become me to say more till commanded.</p>
+               <p>Note, This Nation would soon be weary of paying a yearly Tax to support a Years War, and it is easier to pay 20 <hi>s.</hi> a Year for twenty Years successively, than to pay down 20 <hi>l.</hi> at once: Now by this Method the Taxes will not be felt, al<g ref="char:EOLhyphen"/>though they last many Years; and if required, I could name Taxes that would scarce be felt.</p>
+            </div>
+            <div type="list_of_objections">
+               <head>Objections Answered.</head>
+               <p n="1">I. THis is a new Project, and <hi>England</hi> has long been a glorious Nation without this Proposal, and new Me<g ref="char:EOLhyphen"/>thods will not be easie.</p>
+               <pb n="8" facs="tcp:173701:7"/>
+               <p>
+                  <hi>Answ.</hi> This Objector should then wear a Ruff and Trowses in lieu of rowling-Breeches and a Cravat, which his Great Grand father ne<g ref="char:EOLhyphen"/>ver wore; and that we have now altered our Habit, is because the Habit we now wear is easier than formerly were worn: Nay a Go<g ref="char:EOLhyphen"/>vernment is alterable when not easie, and altered for the better.</p>
+               <p n="2">II. Some think this Credit will lessen the Value of Houses and Lands.</p>
+               <p>
+                  <hi>Answ.</hi> These Objectors allow then the Credit to be good, and better than Houses or Lands.</p>
+               <p>Let these Men make the Titles of their Lands and Houses to be clear and good, then this Credit will do them no harm, but the con<g ref="char:EOLhyphen"/>trary; if we have more Trade and Credit, Men will become more able to buy Lands and Houses, which are always preferrable.</p>
+               <p>
+                  <hi>Holland</hi> has vast Sums standing out in Obligations or Bonds trans<g ref="char:EOLhyphen"/>ferrable, but not currant, yet so valuable, that I have sold them in <hi>London</hi> at 6¼ <hi>per Cent.</hi> and this does not hinder Lands to be at 40 and 50 Years purchase, and it was this kind of Credit or Obliga<g ref="char:EOLhyphen"/>tions that raised that State and supported it.</p>
+               <p n="3">III. How secure us against the Misfortune of the Bankers, or a strong hand?</p>
+               <p>
+                  <hi>Answ.</hi> The Bankers Mony was in the Exchequer; these Bonds will be in the hands and possession of the People: and I have already said the Crown may as easily call back the Mony paid out of the Exchequer, as stop what is paid out for Mony, and made currant by a Law. Secondly, the Office will have little in it worth seizing, and we may as well fear the plundering of <hi>Lombard-street</hi> or the City.</p>
+               <p n="4">IV. We shall have nothing but Paper-Mony.</p>
+               <p>
+                  <hi>Answ.</hi> If it does the same Duty, it is as good. By adding this cur<g ref="char:EOLhyphen"/>rant Credit we do not banish Gold nor Silver, but make it more free and common amongst us, and Men will rather hoard up these Bonds than Mony, because this Species increaseth in their Coffers.</p>
+               <p n="5">V. My own Objection is, that Men will hoard up these Bonds as the best and securest Treasure, and so spoil my Design of making them run in Trade.</p>
+               <p>But if they do, they must purchase them with Mony or Goods, which then will turn to the same account.</p>
+               <p>If more Objections arise, they shall be readily answered by</p>
+               <closer>
+                  <signed>William Killigrew.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
